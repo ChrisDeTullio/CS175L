@@ -1,3 +1,6 @@
+#CS175
+#Christopher DeTullio
+#restaurant
 vegetarian = False
 vegan = False
 gluten_free = False
