@@ -1,5 +1,8 @@
-import matplotlib.pyplot as plt
+#CS175
+#ChristopherDeTullio
+#expensePieChart
 
+import matplotlib.pyplot as plt
 
 def main():
     
